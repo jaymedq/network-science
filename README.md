@@ -1,0 +1,1 @@
+This repository holds Network Science assignments resolutions.
